@@ -13,8 +13,8 @@ $ composer require germania-kg/phpexcel-wrapper
 ## Deprecations
 
 - Namespace **Germania\PhpExcelWrapper** will change to *PhpSpreadsheetWriter* with next major release
-- Class **Germania\PhpExcelWrapper\PhpExcelWriter: ** use *PhpSpreadsheetWriter* instead
-- Class **Germania\PhpExcelWrapper\PhpExcelCreator: ** use *PhpSpreadsheetCreator* instead
+- Class **Germania\PhpExcelWrapper\PhpExcelWriter:** use *PhpSpreadsheetWriter* instead
+- Class **Germania\PhpExcelWrapper\PhpExcelCreator:** use *PhpSpreadsheetCreator* instead
 
 ## Unit tests and development
 
